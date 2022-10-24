@@ -38,8 +38,8 @@ Can be an integer to determine the exact padding."
   "A dark theme inspired by 1337 Theme."
 
   ;; name        default   256       16
-  ((bg         '("#062626" "#062626" nil))
-   (bg-alt     '("#062626" "#062626"  nil))
+  ((bg         '("#042328" "#042328" nil))
+   (bg-alt     '("#042328" "#042328"  nil))
    (base0      '("#171F24" "#111122"   "black"))
    (base1      '("#1C1C1C" "#1C1C1C" "brightblack"))
    (base2      '("#121212" "#626262" "brightblack"))
@@ -70,7 +70,7 @@ Can be an integer to determine the exact padding."
    (dark-violet  '("#68217A" "#662277" "magenta"))
    (cyan         '("#85DDFF" "#5FD7FF" "brightcyan"))
    (dark-cyan    '("#207FA1" "#2277AA" "cyan"))
-   (blow-green   '("#062626" "#062626" "blow-green"))
+   (blow-green   '("#042328" "#042328" "blow-green"))
    (blow-numerical '("#98D6C9" "#98D6C9" "blow-numerical"))
    (blow-keyword '("#ECFFFF" "#ECFFFF" "blow-keyword"))
    (blow-text    '("#D2B58C" "#D2B58C" "blow-text"))
